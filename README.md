@@ -120,3 +120,6 @@ npm run dev
 Build
 ```
 npm run build
+## Demo data
+
+A small, fictional demo dataset is available in `demo-data/demo-data.json`. It includes sample clients, internal and client-linked projects, team members, realistic project statuses, deadlines, and invoice examples. All names and contact details use demo-only information.

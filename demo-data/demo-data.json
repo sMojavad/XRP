@@ -1,0 +1,56 @@
+{
+  "clients": [
+    {
+      "name": "Northstar Studio",
+      "email": "hello@northstar-demo.example",
+      "type": "client"
+    },
+    {
+      "name": "Internal Operations",
+      "email": "ops@internal-demo.example",
+      "type": "internal"
+    }
+  ],
+  "team_members": [
+    {
+      "name": "Avery Chen",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Mina Patel",
+      "role": "Designer"
+    },
+    {
+      "name": "Lucas Reed",
+      "role": "Developer"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Northstar website refresh",
+      "client": "Northstar Studio",
+      "status": "In progress",
+      "deadline": "2026-08-15"
+    },
+    {
+      "name": "Internal CRM cleanup",
+      "client": "Internal Operations",
+      "status": "Planned",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "invoices": [
+    {
+      "number": "DEMO-INV-1001",
+      "client": "Northstar Studio",
+      "amount": 4200,
+      "status": "Paid"
+    },
+    {
+      "number": "DEMO-INV-1002",
+      "client": "Internal Operations",
+      "amount": 1800,
+      "status": "Pending"
+    }
+  ]
+}
